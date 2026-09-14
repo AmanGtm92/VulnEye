@@ -1,0 +1,8 @@
+# VulnEye has zero external dependencies — it relies only on the Python
+# standard library (socket, threading, queue, argparse, ipaddress, json, ssl).
+#
+# This file is included so the project follows standard Python packaging
+# conventions and so `pip install -r requirements.txt` is always a safe,
+# no-op command to run.
+#
+# Requires: Python >= 3.7
