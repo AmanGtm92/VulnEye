@@ -24,7 +24,7 @@ are required. Installation is just cloning/downloading the repo.
 
 ```bash
 git clone https://github.com/yourusername/vulneye.git
-cd vulneye
+cd VulnEye
 ```
 
 *(Or just download `vulneye.py` directly if you're not using git.)*
